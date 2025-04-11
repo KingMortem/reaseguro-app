@@ -24,7 +24,7 @@ bash
 Copy
 
 # Clonar repositorio
-git clone [tu-repositorio]
+git clone https://github.com/KingMortem/reaseguro-app
 
 # Backend
 cd backend
